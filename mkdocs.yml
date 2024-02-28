@@ -1,8 +1,9 @@
-site_name: "test-permission2"
-site_description: "demo"
-
+site_name: test-permission2
+site_description: empty
+docs_dir: docs
 nav:
-  - Introduction: index.md
+  - docs:
+    - index: index.md
 
 plugins:
   - techdocs-core
