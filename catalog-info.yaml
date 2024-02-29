@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Test-permission2
-  description:
+  name: "Test-permission2"
+  description: " demo demo demo"
   annotations:
     jira/project-key: SPP
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
