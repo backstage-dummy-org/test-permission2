@@ -11,4 +11,5 @@ metadata:
     - tag2
 spec:
   type: Service
+  lifecycle: experimental
   owner: "group:default/spp-sml"
