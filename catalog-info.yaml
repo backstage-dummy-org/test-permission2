@@ -11,4 +11,4 @@ metadata:
     - tag2
   spec:
     type: Service
-    owner: group:default/spp-sml
+    owner: "group:default/spp-sml"
