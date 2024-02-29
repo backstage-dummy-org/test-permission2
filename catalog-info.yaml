@@ -1,12 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "test-permission2"
-  description: "demo"
+  name: ${{ values.name | dump }}
+  description: ${{ values.description | dump }}
+  catalogInfoPath: "/catalog-info.yaml"
   annotations:
-    github.com/project-slug: backstage-dummy-org/test-permission2
-    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: ${{ parameters.repoUrl | parseRepoUrl }}
+tags:
+  - ${{ values.tag1 | dump }}
+  - ${{ values.tag2 | dump }}
 spec:
-  type: website
-  lifecycle: experimental
-  owner: "group:default/spp-sml"
+  type: {{ values.type | dump }}
+  owner: {{ values.owner | dump }}
+  lifecycle: {{ values.lifecycle | dump }}
