@@ -5,7 +5,7 @@ metadata:
   description: " demo demo demo"
   annotations:
     jira/project-key: SPP
-    github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
+    github.com/project-slug: backstage-dummy-org/test-permission2
   tags:
     - tag1
     - tag2
