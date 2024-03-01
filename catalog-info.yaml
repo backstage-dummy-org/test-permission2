@@ -1,15 +1,16 @@
 apiVersion: backstage.io/v1alpha1
+kind: Component
 metadata:
   name: test-permission2
-  description: demo
+  description: demo demo demo
   annotations:
     jira/project-key: SPP
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
   tags:
-    - demo
+    - test
   links:
     - url: https://www.google.co.uk/
-      title: Link to Google
+      title: Google
       icon: dashboard
 spec:
   type: Service
