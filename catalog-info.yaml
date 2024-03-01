@@ -1,15 +1,18 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "test-permission2"
-  description: "demo demo demo"
+  name: test-permission2
+  description: demo
   annotations:
     jira/project-key: SPP
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
-  tags:
-    - tag1
-    - tag2
+  tags: |-
+    - new
+    - test
+    - helloworld
+  links:
+    - icon: dashboard
 spec:
   type: Service
-  lifecycle: experimental
-  owner: "group:default/spp-sml"
+  lifecycle: Testing
+  owner: group:default/spp-sml
