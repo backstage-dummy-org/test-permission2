@@ -1,20 +1,18 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "test-permission2"
-  description: "demo"
+  name: " test-permission2 "
+  description: " Demo demo "
   annotations:
     jira/project-key: SPP
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
   tags:
-    - new
-    - test
-    - helloworld
+    - demo
   links:
-    - url: https://www.google.co.uk
-      title: Test
+    - url: https://www.google.co.uk/
+      title: Google
       icon: dashboard
 spec:
   type: Service
   lifecycle: Testing
-  owner: "group:default/spp-sml"
+  owner: " group:default/spp-sml "
