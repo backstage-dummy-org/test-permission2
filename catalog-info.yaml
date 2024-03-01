@@ -11,7 +11,9 @@ metadata:
     - test
     - helloworld
   links:
-    - icon: dashboard
+    - url: https://www.google.co.uk
+      title: Test
+      icon: dashboard
 spec:
   type: Service
   lifecycle: Testing
