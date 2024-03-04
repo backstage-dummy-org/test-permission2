@@ -2,14 +2,14 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-permission2
-  description: example
+  description: demo demo demo demo
   annotations:
     jira/project-key: SPP
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
   tags:
-    - demo
+    - testing
   links:
-    - url: https://confluence.ons.gov.uk/display/SEC/SDP+Homepage
+    - url: https://www.google.co.uk/
       title: Main project documentation
       icon: dashboard
 spec:
