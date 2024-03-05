@@ -6,7 +6,6 @@ metadata:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
   tags: |
     - python
-
     - sml
   links:
     - title: Supporting Documentation
