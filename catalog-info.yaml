@@ -2,12 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-permission2
-  description: new test
+  description: new
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
   tags:
-    - python
-    - spp-sml
+    - python, java, typescript
+    - spp-sml, sml, ons
   links:
     - url: https://confluence.ons.gov.uk/display/SEC/SDP+Homepage
       title: Supporting Documentation
