@@ -5,10 +5,9 @@ metadata:
   description: example
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
-  tags: |-
-    - python
-    - java - spp-sml
-    - sml
+  tags: |
+    - python| \n
+    - spp-sml| \n
   links:
     - title: Supporting Documentation
       icon: dashboard
