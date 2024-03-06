@@ -4,8 +4,16 @@ metadata:
   name: test-permission2
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
-  tags: [python, java, sml]
-
+  tags: "[python, java, typescript, spp-sml, sml, ons]"
+  links:
+    - title: Supporting Documentation
+      icon: dashboard
+    - title: Build Documentation
+      icon: dashboard
+    - title: Deploy Documentation
+      icon: dashboard
+    - title: Release
+      icon: dashboard
 spec:
   type: service
   lifecycle: production
