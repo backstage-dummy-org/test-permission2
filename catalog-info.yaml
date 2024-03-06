@@ -5,12 +5,12 @@ metadata:
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
   tags:
-    -python
-    - java
-    - typescript
-    -spp-sml
-    - sml
-    - ons
+    - python
+    -  java
+    -  typescript
+    - spp-sml
+    -  sml
+    -  ons
 spec:
   type: service
   lifecycle: production
