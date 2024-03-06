@@ -4,9 +4,17 @@ metadata:
   name: test-permission2
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
-
+  tags: "{{ steps.transformTags.output.docsDir }}"
+  links:
+    - title: Supporting Documentation
+      icon: dashboard
+    - title: Build Documentation
+      icon: dashboard
+    - title: Deploy Documentation
+      icon: dashboard
+    - title: Release
+      icon: dashboard
 spec:
   type: service
   lifecycle: production
   owner: group:default/spp-sml
-
