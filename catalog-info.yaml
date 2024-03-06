@@ -6,11 +6,11 @@ metadata:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
     tags:
       - python
-      -  java
-      -  typescript
+      - java
+      - typescript
       - spp-sml
-      -  sml
-      -  ons
+      - sml
+      - ons
 spec:
   type: service
   lifecycle: production
