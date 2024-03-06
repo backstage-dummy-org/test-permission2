@@ -4,7 +4,7 @@ metadata:
   name: test-permission2
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
-  tags: "{{ steps.transformTags.output.docsDir }}"
+  tags: [python, java, sml]
   links:
     - title: Supporting Documentation
       icon: dashboard
