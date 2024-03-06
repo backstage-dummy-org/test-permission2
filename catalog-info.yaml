@@ -2,11 +2,21 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-permission2
+  description: "12345"
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
-  tags:
-    - python
-    - sml
+    tags:
+      - ${{ join(', - ', split(',', parameters.languageTags)) }}
+      - ${{ join(', - ', split(',', parameters.projectTags)) }}
+  links:
+    - title: Supporting Documentation
+      icon: dashboard
+    - title: Build Documentation
+      icon: dashboard
+    - title: Deploy Documentation
+      icon: dashboard
+    - title: Release
+      icon: dashboard
 spec:
   type: service
   lifecycle: production
