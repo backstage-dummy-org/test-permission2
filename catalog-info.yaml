@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-permission2
-  description: new
+  description: example
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
   tags:
