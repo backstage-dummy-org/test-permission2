@@ -5,24 +5,9 @@ metadata:
   description: demo
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
-  tags:
-    - python
-    - java
-    - typescript
-    - javascript
-    - aws
-    - spp-sml
-    - sml
-    - ons
-    - innovation
-  links:
-    - url: https://confluence.ons.gov.uk/display/SEC/SDP+Homepage
-      title: Supporting Documentation
-      icon: dashboard
-    - url: https://confluence.ons.gov.uk/display/SEC/SDP%3A+Core+features
-      title: Build Documentation
-      icon: dashboard
+  tags: []
+  links: []
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: production
   owner: group:default/spp-sml
