@@ -9,10 +9,21 @@ metadata:
     - python
     - java
     - spp-sml
+    - sml
+    - ons
     - innovation
   links:
     - url: https://confluence.ons.gov.uk/display/SEC/SDP+Homepage
       title: Supporting Documentation
+      icon: dashboard
+    - url: https://confluence.ons.gov.uk/display/SEC/SDP%3A+Core+features
+      title: Build Documentation
+      icon: dashboard
+    - url: https://confluence.ons.gov.uk/display/SEC/SDP%3A+Plugins+and+integrations
+      title: Deploy Documentation
+      icon: dashboard
+    - url: https://confluence.ons.gov.uk/display/SEC/Initial+Research
+      title: Release
       icon: dashboard
 spec:
   type: service
