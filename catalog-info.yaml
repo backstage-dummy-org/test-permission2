@@ -5,6 +5,7 @@ metadata:
   description: example
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
+    cloud_service_provider: AWS
     s3viewer/bucket-name: websitedemo7862
   tags:
     - python
