@@ -8,7 +8,6 @@ metadata:
     cloud_service_provider: AWS
     s3viewer/bucket-name: 
       - websitedemo7862
-      - demowebsite7866
   tags:
     - python
     - java
