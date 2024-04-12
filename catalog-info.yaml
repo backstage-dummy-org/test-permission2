@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
     cloud_service_provider: AWS
-    s3viewer/bucket-name: demowebsite7861, test-website-ons01
+    s3viewer/bucket-name: demowebsite7861, cf-templates-p13wahha5ywe-eu-west-2
   tags:
     - python
     - java
