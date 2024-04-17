@@ -5,8 +5,6 @@ metadata:
   description: example
   annotations:
     github.com/project-slug: github.com?owner=backstage-dummy-org&repo=test-permission2
-    cloud_service_provider: AWS
-    s3viewer/bucket-name: demowebsite7861, cf-templates-p13wahha5ywe-eu-west-2, dstdemowebsite129922
   tags:
     - python
     - java
@@ -16,6 +14,7 @@ metadata:
     - spp-sml
     - sml
     - ons
+    - innovation
   links:
     - url: https://confluence.ons.gov.uk/display/SEC/SDP+Homepage
       title: Supporting Documentation
@@ -23,7 +22,7 @@ metadata:
     - url: https://confluence.ons.gov.uk/display/SEC/SDP%3A+Core+features
       title: Build Documentation
       icon: docs
-    - url: https://officenationalstatistics.sharepoint.com/sites/ONS_DDaT_Communities/_layouts/15/embed.aspx?UniqueId=0f12cbfc-a3fc-45b3-952d-d871918874db&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create
+    - url: https://confluence.ons.gov.uk/display/SEC/SDP%3A+Plugins+and+integrations
       title: Deployment Documentation
       icon: docs
     - url: https://confluence.ons.gov.uk/display/SEC/Initial+Research
