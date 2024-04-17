@@ -1,8 +1,9 @@
-site_name: "test-permission2"
-site_description: "demo"
-
+site_name: Onboarding
+site_description: Onboarding demo
+docs_dir: onboarding
 nav:
-  - Introduction: index.md
+  - onboarding:
+    - index: index.md
 
 plugins:
   - techdocs-core
