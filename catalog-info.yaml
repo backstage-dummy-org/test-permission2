@@ -8,6 +8,7 @@ metadata:
     cloud_service_provider: AWS
     s3viewer/bucket-name: demowebsite7861, cf-templates-p13wahha5ywe-eu-west-2, dstdemowebsite129922
     backstage.io/techdocs-ref: dir:.
+    onboarding_docs: onboarding-docs
   tags:
     - python
     - java
