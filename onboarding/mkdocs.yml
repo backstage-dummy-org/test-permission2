@@ -1,0 +1,7 @@
+site_name: Onboarding
+site_description: Onboarding information and documentation for the test.
+docs_dir: onboarding
+nav:
+  - Overview: index.md
+plugins:
+  - techdocs-core
