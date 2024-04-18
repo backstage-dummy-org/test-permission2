@@ -1,8 +1,8 @@
-# Software Development Team Onboarding Information
+# Team Onboarding Information
 
 ## Welcome!
 
-Welcome to our Software Development Team! We're excited to have you join us as we work on our latest project, EcoTrack. This document serves as your guide to getting started with our team and understanding the project we're working on.
+Welcome to our team! We're excited to have you join us as we work on our latest project, EcoTrack. This document serves as your guide to getting started with our team and understanding the project we're working on.
 
 ## Project Overview
 
