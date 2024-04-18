@@ -20,7 +20,7 @@ Welcome to our team! We're excited to have you join us as we work on our latest 
 
 Below is a high-level architecture diagram of the EcoTrack application:
 
-![EcoTrack Architecture Diagram](https://miro.medium.com/v2/resize:fit:1400/1*MbtHljK_Y-HT_KwwYmaQVQ.png) 
+![EcoTrack Architecture Diagram](https://miro.medium.com/1*MbtHljK_Y-HT_KwwYmaQVQ.png) 
 
 ## Onboarding Tasks
 
