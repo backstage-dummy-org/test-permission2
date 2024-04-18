@@ -6,8 +6,8 @@ Welcome to our team! We're excited to have you join us as we work on our latest 
 
 ## Project Overview
 
-**Project Name:** EcoTrack  
-**Description:** EcoTrack is a mobile application designed to promote environmental sustainability by helping users track their carbon footprint and adopt eco-friendly habits.
+- **Project Name:** EcoTrack  
+- **Description:** EcoTrack is a mobile application designed to promote environmental sustainability by helping users track their carbon footprint and adopt eco-friendly habits.
 
 ### Project Goals
 
@@ -44,4 +44,3 @@ If you have any questions or need assistance, don't hesitate to reach out to you
 Happy coding!
 
 ---
-
