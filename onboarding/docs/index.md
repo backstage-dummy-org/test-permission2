@@ -20,7 +20,7 @@ Welcome to our team! We're excited to have you join us as we work on our latest 
 
 Below is a high-level architecture diagram of the EcoTrack application:
 
-![EcoTrack Architecture Diagram](https://example.com/ecotrack_architecture_diagram.png)
+![EcoTrack Architecture Diagram]([https://example.com/ecotrack_architecture_diagram.png](https://docs.appdynamics.com/sap/files/en/126231575/293273886/1/1685428845000/image2023-4-3_14-37-7.png))
 
 ## Onboarding Tasks
 
