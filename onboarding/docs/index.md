@@ -20,7 +20,7 @@ Welcome to our team! We're excited to have you join us as we work on our latest 
 
 Below is a high-level architecture diagram of the EcoTrack application:
 
-![EcoTrack Architecture Diagram](https://miro.medium.com/1*MbtHljK_Y-HT_KwwYmaQVQ.png) 
+![EcoTrack Architecture Diagram](https://www.softkraft.co/static/058ffdeec9158caf740b7ee053e6fff0/eac75/Serverless-Architecture.png) 
 
 ## Onboarding Tasks
 
