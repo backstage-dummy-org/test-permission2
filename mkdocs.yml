@@ -1,9 +1,8 @@
-site_name: docs
-site_description: docs
+site_name: Test-Permission2
+site_description: Test-Permission2
 docs_dir: docs
 nav:
-  - Overview:
-    - index: index.md
+  - Overview: index.md
   - Onboarding: onboarding.md
 
 plugins:
