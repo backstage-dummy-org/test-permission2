@@ -29,8 +29,7 @@ metadata:
       title: Release
       icon: docs
   cloud:
-  - provider: "AWS"
-    type: "S3"
+    provider: "AWS"
     buckets: demowebsite7861, cf-templates-p13wahha5ywe-eu-west-2, dstdemowebsite129922
 spec:
   type: service
